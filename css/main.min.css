@@ -1,1 +1,2 @@
-/* No CSS *//*# sourceMappingURL=main.min.css.map */
+:root{--main-font: "Roboto", sans-serif;--secondary-font: "Raleway", sans-serif;--accent-color: #2196f3;--title-light-theme-color: #212121;--title-dark-theme-color: #ffffff;--subtitle-light-theme-color: #757575;--subtitle-dark-theme-color: rgba(255, 255, 255, 0.6)}.visually-hidden{position:absolute !important;clip:rect(1px 1px 1px 1px);clip:rect(1px, 1px, 1px, 1px);padding:0 !important;border:0 !important;height:1px !important;width:1px !important;overflow:hidden}*{margin:0;padding:0}body{font-family:var(--main-font);font-style:normal}.main-div{width:1170px;padding-left:215px;padding-right:215px}.body-width{width:1600px;margin:0% auto}
+/*# sourceMappingURL=main.min.css.map */
