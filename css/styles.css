@@ -1,3 +1,45 @@
+:root {
+  --main-font: "Roboto", sans-serif;
+  --secondary-font: "Raleway", sans-serif;
+  --accent-color: #2196f3;
+  --title-light-theme-color: #212121;
+  --title-dark-theme-color: #ffffff;
+  --subtitle-light-theme-color: #757575;
+  --subtitle-dark-theme-color: rgba(255, 255, 255, 0.6);
+}
+body {
+  font-family: var(--main-font);
+  font-style: normal;
+}
+
+.body-width {
+  width: 1600px;
+  margin: 0% auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-div {
+  width: 1170px;
+  padding-left: 215px;
+  padding-right: 215px;
+}
+
+.list {
+  list-style: none;
+}
+
+.list-inline-block {
+  display: inline-block;
+}
+
+.link {
+  text-decoration: none;
+}
+
 .backdrop {
   position: fixed;
   top: 0%;
